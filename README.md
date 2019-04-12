@@ -2,7 +2,7 @@
 
 An implementation of an Small-C compiler for the Compiler course.
 
-##Grammar
+## Grammar
 The grammar accepted by the compiler is on the repository with the source code.
 
 ## Building
