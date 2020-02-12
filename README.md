@@ -3,7 +3,7 @@
 An implementation of an Small-C compiler for the Compiler course.
 
 ## Grammar
-The grammar accepted by the compiler is on the repository with the source code.
+The grammar accepted by the compiler is on the repository with the source code. [here](https://github.com/elvishribeiro/SmallC-Compiler/tree/master/Csmall)
 
 ## Building
 To compile just type the following
